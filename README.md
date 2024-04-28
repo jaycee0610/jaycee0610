@@ -1,6 +1,6 @@
 # Hello, I'm John Natividad 🤖🦾
 
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F727&random=false&width=435&lines=Web+Developer;Cybersecurity+Researcher;Forex+%26+Crypto+Trader;MQL4+Developer)](https://git.io/typing-svg)
+> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=1BC825&background=000000&random=false&width=435&lines=Web+Developer;Penetration+Testers;MQL4+Programmer;Forex+%26+Crypto+Trader)
 
 
 ## 🌐 Socials:
