@@ -11,7 +11,3 @@
 
 
 ![](https://visitcount.itsvg.in/api?id=jaycee0610&icon=1&color=1)
-
-
-<img src="https://raw.githubusercontent.com/jaycee0610/jaycee0610/output/snake.svg" alt="Snake animation" />
-
