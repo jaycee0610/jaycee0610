@@ -1,3 +1,4 @@
+![Cover](https://github.com/jaycee0610/jaycee0610/blob/main/cover.png)
 # Hello, I'm John Natividad 🤖🦾
 
 > ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=1BC825&background=000000&random=false&width=435&lines=&nbsp;&nbsp;Web+Developer;&nbsp;&nbsp;Penetration+Testers;&nbsp;&nbsp;MQL4+Programmer;&nbsp;&nbsp;Forex+%26+Crypto+Trader)
