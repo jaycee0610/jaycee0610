@@ -4,7 +4,8 @@ Fullstack Developer - Penetration Tester - Forex & Crypto Trader
 
 # Hello, I'm John Natividad 🤖🦾
 
-
+- 🥇 Founder / CEO @ [Bayad Tech](https://bayad.tech/)
+- 👏 Founder @ [Rootscratch Development](https://rootscratch.com/)
 
 
 ## 🌐 Socials:
