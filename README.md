@@ -3,9 +3,9 @@
 
 # Hello, I'm John Natividad 🤖🦾
 Code smart, stay DRY, build better.
+<img align="right" alt="Nyan Cat" height="200" width="170" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
 
 Passionate self-taught developer from Manila, Philippines, with 8 years of experience in web development. Skilled in crafting efficient, secure, and user-friendly web applications, I specialize in full-stack development, cybersecurity, and performance optimization. Always eager to learn and innovate, I thrive on solving complex challenges and building impactful digital solutions.
-<img align="right" alt="Nyan Cat" height="200" width="170" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
 
 ## About Me
 
