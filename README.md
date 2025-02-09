@@ -9,7 +9,7 @@ Code smart, stay DRY, build better.
 
 ## 💻 Tech Stack
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,burpsuite,kali&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,burp,kali&theme=dark)
 
 
 
