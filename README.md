@@ -34,5 +34,7 @@ Passionate self-taught developer from Manila, Philippines, with 8 years of exper
 
 
 
-## 🎼 Eyy Soundtrip ka muna
+## 🎼 Eyy Tara Soundtrip
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vbwkxr7dgkepbgq7kwdowbm7a4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+Bitcoin : 18hvkhYS7YAwcN9Uhxq6k36XS7cedo4YVg
