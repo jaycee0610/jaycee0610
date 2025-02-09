@@ -9,9 +9,14 @@ Code smart, stay DRY, build better.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaycee0610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaycee0610) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19294127/jaycee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@morningstar.jaycee) 
 
-## 💻 Tech Stack
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,kali&theme=dark)
+
+<details>
+      <summary>🧮 <b>Tech Stack</b></summary><br />
+
+      ![techstack](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,kali&theme=dark)
+      
+</details>
 
 <details>
       <summary>&#127942 <b>GitHub Profile Tropy</b></summary><br/>
