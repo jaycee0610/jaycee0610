@@ -13,8 +13,8 @@ Code smart, stay DRY, build better.
 
 <details>
       <summary>🧮 <b>Tech Stack</b></summary><br />
-
-      ![techstack](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,kali&theme=dark)
+      
+  ![techstack](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,kali&theme=dark)
       
 </details>
 
