@@ -1,10 +1,10 @@
 
 ![Cover](https://github.com/jaycee0610/jaycee0610/blob/main/cover.gif?raw=true)
+<img align="right" alt="Coding" height="300" width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 # Hello, I'm John Natividad 🤖🦾
 Code smart, stay DRY, build better.
 
-<img align="right" alt="Coding" height="400" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 - 🥇 Founder | CEO @ [Bayad Tech](https://bayad.tech/) & [Rootscratch Development](https://rootscratch.com/)
 - 🐛 Web / App Penetration Tester
