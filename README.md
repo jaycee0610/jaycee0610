@@ -1,12 +1,9 @@
 
 ![Cover](https://github.com/jaycee0610/jaycee0610/blob/main/cover.gif?raw=true)
-<table>
-  <tr>
-    <td align="right">
-      <img alt="Coding" height="200" width="170" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img alt="Coding" height="200" width="170" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
+</p>
+
 
 # Hello, I'm John Natividad 🤖🦾
 Code smart, stay DRY, build better.
