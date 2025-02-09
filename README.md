@@ -13,7 +13,11 @@ Code smart, stay DRY, build better.
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,kali&theme=dark)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=jaycee0610&theme=darkhub)
+<details>
+      <summary>&#127942 <b>GitHub Profile Tropy</b></summary><br/>
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=jaycee0610&theme=darkhub)
+</details>
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vbwkxr7dgkepbgq7kwdowbm7a4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
