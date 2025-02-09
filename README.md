@@ -12,6 +12,7 @@ Passionate self-taught developer from Manila, Philippines, with 8 years of exper
 - 🥇 Founder | CEO @ [Bayad Tech](https://bayad.tech/) & [Rootscratch Development](https://rootscratch.com/)
 - 🐛 Web / App Penetration Tester
 - 💸 Forex & Crypto Trader @ [ByBit.com](https://www.bybit.com/invite?ref=N7JKN8)
+-  ✖️ Frameworks | ✔️ Scratch
 
 <details>
       <summary>🤖 <b>Tech Stack</b></summary><br />
