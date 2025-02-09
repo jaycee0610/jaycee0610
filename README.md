@@ -1,18 +1,19 @@
 
 ![Cover](https://github.com/jaycee0610/jaycee0610/blob/main/cover.gif?raw=true)
-Fullstack Developer - Penetration Tester - Forex & Crypto Trader
 
 # Hello, I'm John Natividad 🤖🦾
 Code smart, stay DRY, build better.
 
 - 🥇 Founder | CEO @ [Bayad Tech](https://bayad.tech/) & [Rootscratch Development](https://rootscratch.com/)
+- 🐛 Web / App Penetration Tester
+- 💸 Forex & Crypto Trader
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaycee0610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaycee0610) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19294127/jaycee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@morningstar.jaycee) 
 
 
 
 <details>
-      <summary>🧮 <b>Tech Stack</b></summary><br />
+      <summary>🤖 <b>Tech Stack</b></summary><br />
       
   ![techstack](https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,py,docker,md,git,bash,cloudflare,jquery,nginx,vscode,postman,kali&theme=dark)
       
