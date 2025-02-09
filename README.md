@@ -15,7 +15,9 @@ Code smart, stay DRY, build better.
 
 <details>
       <summary>&#127942 <b>GitHub Profile Tropy</b></summary><br/>
+      
   ![Github Trophy](https://github-profile-trophy.vercel.app/?username=jaycee0610&theme=darkhub)
+  
 </details>
 
 
