@@ -5,7 +5,7 @@
 Code smart, stay DRY, build better.
 <img align="right" alt="Nyan Cat" height="200" width="170" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
 
-
+###About Me
 - 🥇 Founder | CEO @ [Bayad Tech](https://bayad.tech/) & [Rootscratch Development](https://rootscratch.com/)
 - 🐛 Web / App Penetration Tester
 - 💸 Forex & Crypto Trader @ [ByBit.com](https://www.bybit.com/invite?ref=N7JKN8)
