@@ -1,6 +1,6 @@
 
 ![Cover](https://github.com/jaycee0610/jaycee0610/blob/main/cover.gif?raw=true)
-<img align="right" alt="Coding" height="300" width="250" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="Coding" height="200" width="150" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
 
 # Hello, I'm John Natividad 🤖🦾
 Code smart, stay DRY, build better.
