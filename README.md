@@ -4,6 +4,8 @@
 # Hello, I'm John Natividad 🤖🦾
 Code smart, stay DRY, build better.
 
+<img align="right" alt="Coding" height="400" width="350" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+
 - 🥇 Founder | CEO @ [Bayad Tech](https://bayad.tech/) & [Rootscratch Development](https://rootscratch.com/)
 - 🐛 Web / App Penetration Tester
 - 💸 Forex & Crypto Trader @ [ByBit.com](https://www.bybit.com/invite?ref=N7JKN8)
